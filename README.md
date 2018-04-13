@@ -14,7 +14,7 @@ problemas
 
 El siguiente grafo muestra donde encaja este tutorial en el proceso.
 
-![readme-bash.jpg](readme-bash.jpg)
+![readme-bash.jpg](images/readme-bash.jpg)
 
 ## Objetivos
 
