@@ -10,7 +10,10 @@ La interfaz de línea de comandos es una poderosa herramienta para el procesamie
 de archivos planos. Su capacidad para esta labor se deriva en el hecho de que
 sus comandos están inherentemente desarrollados para procesar una línea de texto
 a la vez, de tal forma que se pueden procesar archivos de gran tamaño sin mayores
-problemas
+problemas. En este tutorial se aborda el manejo de la interfaz de línea de comandos 
+que se encuentra disponible en los sistemas operativos Windows, Linux y MacOS para 
+la extracción, transformación y preparación para la carga de datos de archivos planos 
+de texto.
 
 El siguiente grafo muestra donde encaja este tutorial en el proceso.
 
@@ -48,5 +51,7 @@ jdvelasq@unal.edu.co
 Universidad Nacional de Colombia, Sede Medellín  
 Facultad de Minas  
 Medellín, Colombia  
+[LinkedIn](https://co.linkedin.com/in/juan-david-velásquez-henao-94078979), [GitHub](https://github.com/jdvelasq), [ResearchGate](https://www.researchgate.net/profile/Juan_Velasquez8)
 
-[Licencia](https://github.com/jdvelasq/Tutorials-on-ETL-processes-for-analytics/blob/master/LICENSE)
+
+[Licencia](https://github.com/jdvelasq/bash-for-analytics/tree/master/LICENSE)
