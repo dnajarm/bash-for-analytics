@@ -17,7 +17,7 @@ de texto.
 
 El siguiente grafo muestra donde encaja este tutorial en el proceso.
 
-![readme-bash.jpg](images/readme-bash.jpg)
+![readme.jpg](images/readme.jpg)
 
 ## Objetivos
 
